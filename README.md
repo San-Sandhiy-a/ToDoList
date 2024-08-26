@@ -20,4 +20,4 @@ The application provides a simple interface where users can input a task into a 
 - **CSS**: Adds styling and layout to the application.
 - **JavaScript**: Handles the logic for adding, completing, and deleting tasks.
   ## Image
-  ![Todo List App Screenshot]()
+  ![Todo List App Screenshot](https://github.com/San-Sandhiy-a/ToDoList/blob/main/Screenshot.png?raw=true)
